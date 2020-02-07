@@ -1,0 +1,1 @@
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.DBConnection\obj\Debug\SKDH.AssociationManagment.DBConnection.csprojResolveAssemblyReference.cache

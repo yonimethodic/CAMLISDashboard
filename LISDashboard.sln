@@ -1,0 +1,135 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "WebSites", "WebSites", "{F46F1E28-4EB0-4F40-8842-9945911BD8A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modules", "Modules", "{2323152C-FB9C-41D2-AC57-8BABE27D9ED1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.CoreDomain", "CHAI.LISDashboard.CoreDomain\CHAI.LISDashboard.CoreDomain.csproj", "{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Enums", "CHAI.LISDashboard.Enums\CHAI.LISDashboard.Enums.csproj", "{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.ServerControls", "CHAI.LISDashboard.ServerControls\CHAI.LISDashboard.ServerControls.csproj", "{63C11CE1-4190-491B-A3CC-CA21CDFECD73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Services", "CHAI.LISDashboard.Services\CHAI.LISDashboard.Services.csproj", "{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Shared", "CHAI.LISDashboard.Shared\CHAI.LISDashboard.Shared.csproj", "{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.Admin", "Modules\CHAI.LISDashboard.Modules.Admin\CHAI.LISDashboard.Modules.Admin.csproj", "{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.EID", "Modules\CHAI.LISDashboard.Modules.EID\CHAI.LISDashboard.Modules.EID.csproj", "{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.Report", "Modules\CHAI.LISDashboard.Modules.Report\CHAI.LISDashboard.Modules.Report.csproj", "{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.Setting", "Modules\CHAI.LISDashboard.Modules.Setting\CHAI.LISDashboard.Modules.Setting.csproj", "{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.Shell", "Modules\CHAI.LISDashboard.Modules.Shell\CHAI.LISDashboard.Modules.Shell.csproj", "{B6477755-F019-42BD-B33A-592B65BC6BF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.ViralLoad", "Modules\CHAI.LISDashboard.Modules.ViralLoad\CHAI.LISDashboard.Modules.ViralLoad.csproj", "{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LISDashboard", "http://localhost:58178", "{955905B1-705E-4552-AFA9-4EDA4DBD2BC4}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{66eca1fb-e7f3-4650-aabd-e053bfe14a69}|CHAI.LISDashboard.Modules.ViralLoad.dll;{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}|CHAI.LISDashboard.CoreDomain.dll;{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}|CHAI.LISDashboard.Enums.dll;{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}|CHAI.LISDashboard.Shared.dll;{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}|CHAI.LISDashboard.Modules.Admin.dll;{B6477755-F019-42BD-B33A-592B65BC6BF9}|CHAI.LISDashboard.Modules.Shell.dll;{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}|CHAI.LISDashboard.Services.dll;{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}|CHAI.LISDashboard.Modules.Setting.dll;{88b5eb9e-0fb5-4a23-99bd-f2b3c590f92d}|CHAI.LISDashboard.Modules.AssociationManagment.dll;{7b6c15bd-f5d5-40c3-8eaf-54d8a9328e65}|CHAI.LISDashboard.Modules.Report.dll;{63c11ce1-4190-491b-a3cc-ca21cdfecd73}|CHAI.LISDashboard.ServerControls.dll;{18dd5daa-2100-4639-9af1-b13043ddfd84}|CHAI.LISDashboard.Modules.EIDDashboard.dll;{ed3e4477-198a-4434-bff5-2ee2aa1640d2}|CHAI.LISDashboard.Modules.VLDashboard.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58178"
+		Debug.AspNetCompiler.PhysicalPath = "WebSites\LISDashboard\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58178\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58178"
+		Release.AspNetCompiler.PhysicalPath = "WebSites\LISDashboard\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58178\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "WebSites\LISDashboard\"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.EIDDashbaord", "Modules\CHAI.LISDashboard.Modules.EIDDashboard\CHAI.LISDashboard.Modules.EIDDashbaord.csproj", "{18DD5DAA-2100-4639-9AF1-B13043DDFD84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CHAI.LISDashboard.Modules.VLDashboard", "Modules\CHAI.LISDashboard.Modules.VLDashboard\CHAI.LISDashboard.Modules.VLDashboard.csproj", "{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63C11CE1-4190-491B-A3CC-CA21CDFECD73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C11CE1-4190-491B-A3CC-CA21CDFECD73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C11CE1-4190-491B-A3CC-CA21CDFECD73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C11CE1-4190-491B-A3CC-CA21CDFECD73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6477755-F019-42BD-B33A-592B65BC6BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6477755-F019-42BD-B33A-592B65BC6BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6477755-F019-42BD-B33A-592B65BC6BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6477755-F019-42BD-B33A-592B65BC6BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{955905B1-705E-4552-AFA9-4EDA4DBD2BC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{955905B1-705E-4552-AFA9-4EDA4DBD2BC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{955905B1-705E-4552-AFA9-4EDA4DBD2BC4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{955905B1-705E-4552-AFA9-4EDA4DBD2BC4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{18DD5DAA-2100-4639-9AF1-B13043DDFD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DD5DAA-2100-4639-9AF1-B13043DDFD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DD5DAA-2100-4639-9AF1-B13043DDFD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DD5DAA-2100-4639-9AF1-B13043DDFD84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{B6477755-F019-42BD-B33A-592B65BC6BF9} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{66ECA1FB-E7F3-4650-AABD-E053BFE14A69} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{955905B1-705E-4552-AFA9-4EDA4DBD2BC4} = {F46F1E28-4EB0-4F40-8842-9945911BD8A0}
+		{18DD5DAA-2100-4639-9AF1-B13043DDFD84} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+		{ED3E4477-198A-4434-BFF5-2EE2AA1640D2} = {2323152C-FB9C-41D2-AC57-8BABE27D9ED1}
+	EndGlobalSection
+EndGlobal

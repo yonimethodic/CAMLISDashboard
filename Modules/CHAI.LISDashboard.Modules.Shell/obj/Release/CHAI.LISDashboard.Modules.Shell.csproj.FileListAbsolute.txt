@@ -1,0 +1,100 @@
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\EntityFramework.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\EntityFramework.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\EntityFramework.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.pdb
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.csprojResolveAssemblyReference.cache
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\ChaiTeam\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Modules.Shell.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\EntityFramework.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.CoreDomain.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Services.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\bin\Release\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\Modules\CHAI.LISDashboard.Modules.Shell\obj\Release\CHAI.LISDashboard.Modules.Shell.pdb

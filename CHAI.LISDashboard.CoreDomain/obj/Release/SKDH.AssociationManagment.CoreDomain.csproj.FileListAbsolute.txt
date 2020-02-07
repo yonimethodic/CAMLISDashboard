@@ -1,0 +1,20 @@
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.CoreDomain.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.CoreDomain.pdb
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\EntityFramework.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Enums.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Shared.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Enums.pdb
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Shared.pdb
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.csprojResolveAssemblyReference.cache
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.CoreDomain.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.CoreDomain.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\EntityFramework.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\bin\Release\SKDH.AssociationManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.CoreDomain\obj\Release\SKDH.AssociationManagment.CoreDomain.pdb

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+***********************************************************************************************
+website.publishproj
+
+WARNING: DO NOT MODIFY this file, it is used for the web publish process.
+
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+***********************************************************************************************
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.30319</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{f809ecdd-e1c3-4148-b7bc-dde9af8401cc}</ProjectGuid>
+    <SourceWebPhysicalPath>$(MSBuildThisFileDirectory)</SourceWebPhysicalPath>
+    <SourceWebVirtualPath>/LISDashboard</SourceWebVirtualPath>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <SourceWebProject>http://localhost:58178</SourceWebProject>
+    <SourceWebMetabasePath>/IISExpress/7.5/LM/W3SVC/5/ROOT</SourceWebMetabasePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <!-- for VS2010 we need to use 10.5 but for VS2012+ we should use VisualStudioVersion -->
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)' =='' and '$(VisualStudioVersion)' == 10.0 ">10.5</WebPublishTargetsVersion>
+    <WebPublishTargetsVersion Condition=" '$(WebPublishTargetsVersion)'=='' ">$(VisualStudioVersion)</WebPublishTargetsVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(WebPublishTargetsVersion)</VSToolsPath>
+    <_WebPublishTargetsPath Condition=" '$(_WebPublishTargetsPath)'=='' ">$(VSToolsPath)</_WebPublishTargetsPath>
+    <AssemblyFileVersion Condition="'$(AssemblyFileVersion)' == ''">1.0.0.0</AssemblyFileVersion>
+    <AssemblyVersion Condition="'$(AssemblyVersion)' == ''">1.0.0.0</AssemblyVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AssemblyAttributes Include="AssemblyFileVersion">
+      <Value>$(AssemblyFileVersion)</Value>
+    </AssemblyAttributes>
+    <AssemblyAttributes Include="AssemblyVersion">
+      <Value>$(AssemblyVersion)</Value>
+    </AssemblyAttributes>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\CHAI.LISDashboard.CoreDomain\CHAI.LISDashboard.CoreDomain.csproj">
+      <Project>{20C49D35-4CEA-4C93-ACFF-3A570CA2FED7}</Project>
+      <Name>CHAI.LISDashboard.CoreDomain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CHAI.LISDashboard.Enums\CHAI.LISDashboard.Enums.csproj">
+      <Project>{5B8A87ED-F10E-4BE4-A8BF-788DD064C7D5}</Project>
+      <Name>CHAI.LISDashboard.Enums</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CHAI.LISDashboard.ServerControls\CHAI.LISDashboard.ServerControls.csproj">
+      <Project>{63C11CE1-4190-491B-A3CC-CA21CDFECD73}</Project>
+      <Name>CHAI.LISDashboard.ServerControls</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CHAI.LISDashboard.Services\CHAI.LISDashboard.Services.csproj">
+      <Project>{99145D3D-2B6D-4C6F-98A9-9BC18584BD07}</Project>
+      <Name>CHAI.LISDashboard.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\CHAI.LISDashboard.Shared\CHAI.LISDashboard.Shared.csproj">
+      <Project>{3C1C6D3D-633E-442A-BDE0-0D0B9D31FDF2}</Project>
+      <Name>CHAI.LISDashboard.Shared</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.Admin\CHAI.LISDashboard.Modules.Admin.csproj">
+      <Project>{1B1467B4-2BF5-4824-9FAC-39C36D4C6C89}</Project>
+      <Name>CHAI.LISDashboard.Modules.Admin</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.EIDDashboard\CHAI.LISDashboard.Modules.EIDDashbaord.csproj">
+      <Project>{18DD5DAA-2100-4639-9AF1-B13043DDFD84}</Project>
+      <Name>CHAI.LISDashboard.Modules.EIDDashbaord</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.EID\CHAI.LISDashboard.Modules.EID.csproj">
+      <Project>{88B5EB9E-0FB5-4A23-99BD-F2B3C590F92D}</Project>
+      <Name>CHAI.LISDashboard.Modules.EID</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.Report\CHAI.LISDashboard.Modules.Report.csproj">
+      <Project>{7B6C15BD-F5D5-40C3-8EAF-54D8A9328E65}</Project>
+      <Name>CHAI.LISDashboard.Modules.Report</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.Setting\CHAI.LISDashboard.Modules.Setting.csproj">
+      <Project>{6E8E1E43-0C9B-4B03-BB95-BE86D1853CEA}</Project>
+      <Name>CHAI.LISDashboard.Modules.Setting</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.Shell\CHAI.LISDashboard.Modules.Shell.csproj">
+      <Project>{B6477755-F019-42BD-B33A-592B65BC6BF9}</Project>
+      <Name>CHAI.LISDashboard.Modules.Shell</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.ViralLoad\CHAI.LISDashboard.Modules.ViralLoad.csproj">
+      <Project>{66ECA1FB-E7F3-4650-AABD-E053BFE14A69}</Project>
+      <Name>CHAI.LISDashboard.Modules.ViralLoad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Modules\CHAI.LISDashboard.Modules.VLDashboard\CHAI.LISDashboard.Modules.VLDashboard.csproj">
+      <Project>{ED3E4477-198A-4434-BFF5-2EE2AA1640D2}</Project>
+      <Name>CHAI.LISDashboard.Modules.VLDashboard</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(_WebPublishTargetsPath)\Web\Microsoft.WebSite.Publishing.targets" />
+</Project>

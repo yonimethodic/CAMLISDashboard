@@ -1,0 +1,10 @@
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.CoreDomain.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.CoreDomain.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\EntityFramework.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\bin\Debug\SKDH.BuildingManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\obj\Debug\SKDH.BuildingManagment.CoreDomain.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\obj\Debug\SKDH.BuildingManagment.CoreDomain.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.CoreDomain\obj\Debug\SKDH.BuildingManagment.CoreDomain.pdb

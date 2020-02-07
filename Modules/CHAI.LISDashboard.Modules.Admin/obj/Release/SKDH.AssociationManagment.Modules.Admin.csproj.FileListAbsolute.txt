@@ -1,0 +1,57 @@
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Admin.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Admin.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\EntityFramework.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.CompositeWeb.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Newtonsoft.Json.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.CoreDomain.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Enums.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Shell.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Services.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Shared.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.Unity.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.ServiceLocation.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.Unity.Interception.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.CoreDomain.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Enums.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Services.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Shared.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Shell.pdb
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.csprojResolveAssemblyReference.cache
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.dll
+D:\Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Admin.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Admin.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\EntityFramework.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.CompositeWeb.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.CompositeWeb.EnterpriseLibrary.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.EnterpriseLibrary.Security.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.ObjectBuilder.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Newtonsoft.Json.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.CoreDomain.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Shell.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Services.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.Unity.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.ServiceLocation.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Microsoft.Practices.Unity.Interception.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.CoreDomain.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Services.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\SKDH.AssociationManagment.Modules.Shell.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\obj\Release\SKDH.AssociationManagment.Modules.Admin.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\Modules\SKDH.AssociationManagment.Modules.Admin\bin\Release\Newtonsoft.Json.xml

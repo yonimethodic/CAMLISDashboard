@@ -1,0 +1,50 @@
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\MaynmarProjects\LISDashboardWS\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojResolveAssemblyReference.cache
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojResolveAssemblyReference.cache
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojAssemblyReference.cache
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csproj.CoreCompileInputs.cache
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csproj.CopyComplete
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll.config
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Shared.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\bin\Debug\CHAI.LISDashboard.Enums.pdb
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.dll
+E:\WorkSpace\Cameroon Project\LISDashboard\CHAI.LISDashboard.Shared\obj\Debug\CHAI.LISDashboard.Shared.pdb

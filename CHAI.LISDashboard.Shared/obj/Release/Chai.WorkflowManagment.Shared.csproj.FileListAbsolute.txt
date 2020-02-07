@@ -1,0 +1,7 @@
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\bin\Release\Chai.WorkflowManagment.Shared.dll
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\bin\Release\Chai.WorkflowManagment.Shared.pdb
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\bin\Release\Chai.WorkflowManagment.Enums.dll
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\bin\Release\Chai.WorkflowManagment.Enums.pdb
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\obj\Release\Chai.WorkflowManagment.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\obj\Release\Chai.WorkflowManagment.Shared.dll
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.Shared\obj\Release\Chai.WorkflowManagment.Shared.pdb

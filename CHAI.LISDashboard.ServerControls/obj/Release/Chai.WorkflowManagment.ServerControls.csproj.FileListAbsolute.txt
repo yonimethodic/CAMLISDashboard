@@ -1,0 +1,5 @@
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.ServerControls\bin\Release\Chai.WorkflowManagment.ServerControls.dll
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.ServerControls\bin\Release\Chai.WorkflowManagment.ServerControls.pdb
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.ServerControls\obj\Release\Chai.WorkflowManagment.ServerControls.csprojResolveAssemblyReference.cache
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.ServerControls\obj\Release\Chai.WorkflowManagment.ServerControls.dll
+E:\WorkSpace\Repositories\workflowmanagement\Chai.WorkflowManagment.ServerControls\obj\Release\Chai.WorkflowManagment.ServerControls.pdb

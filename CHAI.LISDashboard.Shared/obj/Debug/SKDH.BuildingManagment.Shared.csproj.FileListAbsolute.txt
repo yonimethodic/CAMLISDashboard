@@ -1,0 +1,14 @@
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\bin\Debug\SKDH.BuildingManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\bin\Debug\SKDH.BuildingManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\bin\Debug\SKDH.BuildingManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\bin\Debug\SKDH.BuildingManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.BuildingManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.BuildingManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.BuildingManagment.Shared.pdb

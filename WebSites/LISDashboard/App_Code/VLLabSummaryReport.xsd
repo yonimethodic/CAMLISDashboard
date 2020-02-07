@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VLLabSummaryReport" targetNamespace="http://tempuri.org/DataSet.xsd" xmlns:mstns="http://tempuri.org/DataSet.xsd" xmlns="http://tempuri.org/DataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="VLLabSummaryReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="VLLabSummaryReport" msprop:Generator_UserDSName="VLLabSummaryReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VLLabSummaryReport" msprop:Generator_TableClassName="VLLabSummaryReportDataTable" msprop:Generator_TableVarName="tableVLLabSummaryReport" msprop:Generator_TablePropName="_VLLabSummaryReport" msprop:Generator_RowDeletingName="VLLabSummaryReportRowDeleting" msprop:Generator_RowChangingName="VLLabSummaryReportRowChanging" msprop:Generator_RowEvHandlerName="VLLabSummaryReportRowChangeEventHandler" msprop:Generator_RowDeletedName="VLLabSummaryReportRowDeleted" msprop:Generator_UserTableName="VLLabSummaryReport" msprop:Generator_RowChangedName="VLLabSummaryReportRowChanged" msprop:Generator_RowEvArgName="VLLabSummaryReportRowChangeEvent" msprop:Generator_RowClassName="VLLabSummaryReportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="No_Patient" msprop:Generator_ColumnVarNameInTable="columnNo_Patient" msprop:Generator_ColumnPropNameInRow="No_Patient" msprop:Generator_ColumnPropNameInTable="No_PatientColumn" msprop:Generator_UserColumnName="No_Patient" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="No_Sample_Recieved" msprop:Generator_ColumnVarNameInTable="columnNo_Sample_Recieved" msprop:Generator_ColumnPropNameInRow="No_Sample_Recieved" msprop:Generator_ColumnPropNameInTable="No_Sample_RecievedColumn" msprop:Generator_UserColumnName="No_Sample_Recieved" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="No_Rejected_Sample" msprop:Generator_ColumnVarNameInTable="columnNo_Rejected_Sample" msprop:Generator_ColumnPropNameInRow="No_Rejected_Sample" msprop:Generator_ColumnPropNameInTable="No_Rejected_SampleColumn" msprop:Generator_UserColumnName="No_Rejected_Sample" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="No_of_Sample_Tested" msprop:Generator_ColumnVarNameInTable="columnNo_of_Sample_Tested" msprop:Generator_ColumnPropNameInRow="No_of_Sample_Tested" msprop:Generator_ColumnPropNameInTable="No_of_Sample_TestedColumn" msprop:Generator_UserColumnName="No_of_Sample_Tested" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="No_of_Sample_Not_Tested" msprop:Generator_ColumnVarNameInTable="columnNo_of_Sample_Not_Tested" msprop:Generator_ColumnPropNameInRow="No_of_Sample_Not_Tested" msprop:Generator_ColumnPropNameInTable="No_of_Sample_Not_TestedColumn" msprop:Generator_UserColumnName="No_of_Sample_Not_Tested" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="Tot_Detected_G_1000" msprop:Generator_ColumnVarNameInTable="columnTot_Detected_G_1000" msprop:Generator_ColumnPropNameInRow="Tot_Detected_G_1000" msprop:Generator_ColumnPropNameInTable="Tot_Detected_G_1000Column" msprop:Generator_UserColumnName="Tot_Detected_G_1000" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="Tot_Detected_LE_1000" msprop:Generator_ColumnVarNameInTable="columnTot_Detected_LE_1000" msprop:Generator_ColumnPropNameInRow="Tot_Detected_LE_1000" msprop:Generator_ColumnPropNameInTable="Tot_Detected_LE_1000Column" msprop:Generator_UserColumnName="Tot_Detected_LE_1000" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="Total_Suppressed" msprop:Generator_ColumnVarNameInTable="columnTotal_Suppressed" msprop:Generator_ColumnPropNameInRow="Total_Suppressed" msprop:Generator_ColumnPropNameInTable="Total_SuppressedColumn" msprop:Generator_UserColumnName="Total_Suppressed" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="Invalid_Error_Noresult" msprop:Generator_ColumnVarNameInTable="columnInvalid_Error_Noresult" msprop:Generator_ColumnPropNameInRow="Invalid_Error_Noresult" msprop:Generator_ColumnPropNameInTable="Invalid_Error_NoresultColumn" msprop:Generator_UserColumnName="Invalid_Error_Noresult" type="xs:int" default="0" minOccurs="0" />
+              <xs:element name="ProvinceName" msprop:Generator_ColumnVarNameInTable="columnProvinceName" msprop:Generator_ColumnPropNameInRow="ProvinceName" msprop:Generator_ColumnPropNameInTable="ProvinceNameColumn" msprop:Generator_UserColumnName="ProvinceName" type="xs:string" minOccurs="0" />
+              <xs:element name="FacilityName" msprop:Generator_ColumnVarNameInTable="columnFacilityName" msprop:Generator_ColumnPropNameInRow="FacilityName" msprop:Generator_ColumnPropNameInTable="FacilityNameColumn" msprop:Generator_UserColumnName="FacilityName" type="xs:string" minOccurs="0" />
+              <xs:element name="LaboratoryName" msprop:Generator_ColumnVarNameInTable="columnLaboratoryName" msprop:Generator_ColumnPropNameInRow="LaboratoryName" msprop:Generator_ColumnPropNameInTable="LaboratoryNameColumn" msprop:Generator_UserColumnName="LaboratoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="No_Outstanding" msprop:Generator_ColumnVarNameInTable="columnNo_Outstanding" msprop:Generator_ColumnPropNameInRow="No_Outstanding" msprop:Generator_ColumnPropNameInTable="No_OutstandingColumn" msprop:Generator_UserColumnName="No_Outstanding" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

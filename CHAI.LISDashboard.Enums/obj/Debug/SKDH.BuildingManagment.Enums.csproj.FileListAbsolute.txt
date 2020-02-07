@@ -1,0 +1,4 @@
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Enums\bin\Debug\SKDH.BuildingManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Enums\bin\Debug\SKDH.BuildingManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Enums\obj\Debug\SKDH.BuildingManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.Enums\obj\Debug\SKDH.BuildingManagment.Enums.pdb

@@ -1,0 +1,14 @@
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Shared.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Shared.pdb
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.pdb
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.csprojResolveAssemblyReference.cache
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.dll
+D:\Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Shared.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\bin\Debug\SKDH.AssociationManagment.Enums.pdb
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.csprojResolveAssemblyReference.cache
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.dll
+E:\WorkSpace\SKDH Projects\SKDHAssociationManagment\SKDH.AssociationManagment.Shared\obj\Debug\SKDH.AssociationManagment.Shared.pdb

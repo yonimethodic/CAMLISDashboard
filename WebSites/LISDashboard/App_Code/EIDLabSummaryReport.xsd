@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="EIDLabSummaryReport" targetNamespace="http://tempuri.org/EIDLabSummaryReport.xsd" xmlns:mstns="http://tempuri.org/EIDLabSummaryReport.xsd" xmlns="http://tempuri.org/EIDLabSummaryReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="EIDLabSummaryReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="EIDLabSummaryReport" msprop:Generator_UserDSName="EIDLabSummaryReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="EIDLabSummaryReport" msprop:Generator_TableClassName="EIDLabSummaryReportDataTable" msprop:Generator_TableVarName="tableEIDLabSummaryReport" msprop:Generator_RowChangedName="EIDLabSummaryReportRowChanged" msprop:Generator_TablePropName="_EIDLabSummaryReport" msprop:Generator_RowDeletingName="EIDLabSummaryReportRowDeleting" msprop:Generator_RowChangingName="EIDLabSummaryReportRowChanging" msprop:Generator_RowEvHandlerName="EIDLabSummaryReportRowChangeEventHandler" msprop:Generator_RowDeletedName="EIDLabSummaryReportRowDeleted" msprop:Generator_RowClassName="EIDLabSummaryReportRow" msprop:Generator_UserTableName="EIDLabSummaryReport" msprop:Generator_RowEvArgName="EIDLabSummaryReportRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="ProvinceName" msprop:Generator_ColumnVarNameInTable="columnProvinceName" msprop:Generator_ColumnPropNameInRow="ProvinceName" msprop:Generator_ColumnPropNameInTable="ProvinceNameColumn" msprop:Generator_UserColumnName="ProvinceName" type="xs:string" minOccurs="0" />
+              <xs:element name="LaboratoryName" msprop:Generator_ColumnVarNameInTable="columnLaboratoryName" msprop:Generator_ColumnPropNameInRow="LaboratoryName" msprop:Generator_ColumnPropNameInTable="LaboratoryNameColumn" msprop:Generator_UserColumnName="LaboratoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="FacilityName" msprop:Generator_ColumnVarNameInTable="columnFacilityName" msprop:Generator_ColumnPropNameInRow="FacilityName" msprop:Generator_ColumnPropNameInTable="FacilityNameColumn" msprop:Generator_UserColumnName="FacilityName" type="xs:string" minOccurs="0" />
+              <xs:element name="No_SampleReceived" msprop:Generator_ColumnVarNameInTable="columnNo_SampleReceived" msprop:Generator_ColumnPropNameInRow="No_SampleReceived" msprop:Generator_ColumnPropNameInTable="No_SampleReceivedColumn" msprop:Generator_UserColumnName="No_SampleReceived" type="xs:int" minOccurs="0" />
+              <xs:element name="No_SampleRejected" msprop:Generator_ColumnVarNameInTable="columnNo_SampleRejected" msprop:Generator_ColumnPropNameInRow="No_SampleRejected" msprop:Generator_ColumnPropNameInTable="No_SampleRejectedColumn" msprop:Generator_UserColumnName="No_SampleRejected" type="xs:int" minOccurs="0" />
+              <xs:element name="No_Tested" msprop:Generator_ColumnVarNameInTable="columnNo_Tested" msprop:Generator_ColumnPropNameInRow="No_Tested" msprop:Generator_ColumnPropNameInTable="No_TestedColumn" msprop:Generator_UserColumnName="No_Tested" type="xs:int" minOccurs="0" />
+              <xs:element name="No_Positive" msprop:Generator_ColumnVarNameInTable="columnNo_Positive" msprop:Generator_ColumnPropNameInRow="No_Positive" msprop:Generator_ColumnPropNameInTable="No_PositiveColumn" msprop:Generator_UserColumnName="No_Positive" type="xs:int" minOccurs="0" />
+              <xs:element name="No_Negative" msprop:Generator_ColumnVarNameInTable="columnNo_Negative" msprop:Generator_ColumnPropNameInRow="No_Negative" msprop:Generator_ColumnPropNameInTable="No_NegativeColumn" msprop:Generator_UserColumnName="No_Negative" type="xs:int" minOccurs="0" />
+              <xs:element name="No_Error" msprop:Generator_ColumnVarNameInTable="columnNo_Error" msprop:Generator_ColumnPropNameInRow="No_Error" msprop:Generator_ColumnPropNameInTable="No_ErrorColumn" msprop:Generator_UserColumnName="No_Error" type="xs:int" minOccurs="0" />
+              <xs:element name="No_Patients" msprop:Generator_ColumnVarNameInTable="columnNo_Patients" msprop:Generator_ColumnPropNameInRow="No_Patients" msprop:Generator_ColumnPropNameInTable="No_PatientsColumn" msprop:Generator_UserColumnName="No_Patients" type="xs:int" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

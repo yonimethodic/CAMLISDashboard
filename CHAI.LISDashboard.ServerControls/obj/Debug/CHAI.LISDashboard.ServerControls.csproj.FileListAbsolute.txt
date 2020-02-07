@@ -1,0 +1,21 @@
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.pdb
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.csprojResolveAssemblyReference.cache
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.dll
+E:\WorkSpace\MaynmarProjects\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.pdb
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.dll
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.pdb
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.csprojResolveAssemblyReference.cache
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.dll
+D:\My Project\Workspace\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.pdb
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.dll
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.pdb
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.csprojResolveAssemblyReference.cache
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.dll
+E:\ChaiTeam\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.pdb
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.dll
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\bin\Debug\CHAI.LISDashboard.ServerControls.pdb
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.csprojAssemblyReference.cache
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.csproj.CoreCompileInputs.cache
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.dll
+D:\CHAI.Projects\package\LISDashboard\LISDashboard\CHAI.LISDashboard.ServerControls\obj\Debug\CHAI.LISDashboard.ServerControls.pdb

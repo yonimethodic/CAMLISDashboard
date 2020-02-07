@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="VLTestedSummaryReport" targetNamespace="http://tempuri.org/VLTestedSummaryReport.xsd" xmlns:mstns="http://tempuri.org/VLTestedSummaryReport.xsd" xmlns="http://tempuri.org/VLTestedSummaryReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="VLTestedSummaryReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="VLTestedSummaryReport" msprop:Generator_UserDSName="VLTestedSummaryReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="VLTestedSummaryReport" msprop:Generator_TableClassName="VLTestedSummaryReportDataTable" msprop:Generator_TableVarName="tableVLTestedSummaryReport" msprop:Generator_TablePropName="_VLTestedSummaryReport" msprop:Generator_RowDeletingName="VLTestedSummaryReportRowDeleting" msprop:Generator_RowChangingName="VLTestedSummaryReportRowChanging" msprop:Generator_RowEvHandlerName="VLTestedSummaryReportRowChangeEventHandler" msprop:Generator_RowDeletedName="VLTestedSummaryReportRowDeleted" msprop:Generator_UserTableName="VLTestedSummaryReport" msprop:Generator_RowChangedName="VLTestedSummaryReportRowChanged" msprop:Generator_RowEvArgName="VLTestedSummaryReportRowChangeEvent" msprop:Generator_RowClassName="VLTestedSummaryReportRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Total" msprop:Generator_ColumnVarNameInTable="columnTotal" msprop:Generator_ColumnPropNameInRow="Total" msprop:Generator_ColumnPropNameInTable="TotalColumn" msprop:Generator_UserColumnName="Total" type="xs:int" minOccurs="0" />
+              <xs:element name="LE_1000" msprop:Generator_ColumnVarNameInTable="columnLE_1000" msprop:Generator_ColumnPropNameInRow="LE_1000" msprop:Generator_ColumnPropNameInTable="LE_1000Column" msprop:Generator_UserColumnName="LE_1000" type="xs:int" minOccurs="0" />
+              <xs:element name="G_1000" msprop:Generator_ColumnVarNameInTable="columnG_1000" msprop:Generator_ColumnPropNameInRow="G_1000" msprop:Generator_ColumnPropNameInTable="G_1000Column" msprop:Generator_UserColumnName="G_1000" type="xs:int" minOccurs="0" />
+              <xs:element name="Error" msprop:Generator_ColumnVarNameInTable="columnError" msprop:Generator_ColumnPropNameInRow="Error" msprop:Generator_ColumnPropNameInTable="ErrorColumn" msprop:Generator_UserColumnName="Error" type="xs:int" minOccurs="0" />
+              <xs:element name="ProvinceName" msprop:Generator_ColumnVarNameInTable="columnProvinceName" msprop:Generator_ColumnPropNameInRow="ProvinceName" msprop:Generator_ColumnPropNameInTable="ProvinceNameColumn" msprop:Generator_UserColumnName="ProvinceName" type="xs:string" minOccurs="0" />
+              <xs:element name="LaboratoryName" msprop:Generator_ColumnVarNameInTable="columnLaboratoryName" msprop:Generator_ColumnPropNameInRow="LaboratoryName" msprop:Generator_ColumnPropNameInTable="LaboratoryNameColumn" msprop:Generator_UserColumnName="LaboratoryName" type="xs:string" minOccurs="0" />
+              <xs:element name="FacilityName" msprop:Generator_ColumnVarNameInTable="columnFacilityName" msprop:Generator_ColumnPropNameInRow="FacilityName" msprop:Generator_ColumnPropNameInTable="FacilityNameColumn" msprop:Generator_UserColumnName="FacilityName" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

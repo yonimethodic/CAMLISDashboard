@@ -1,0 +1,4 @@
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.ServerControls\bin\Debug\SKDH.BuildingManagment.ServerControls.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.ServerControls\bin\Debug\SKDH.BuildingManagment.ServerControls.pdb
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.ServerControls\obj\Debug\SKDH.BuildingManagment.ServerControls.dll
+E:\WorkSpace\SKDH Projects\SKDHBuildingManagment\SKDH.BuildingManagment.ServerControls\obj\Debug\SKDH.BuildingManagment.ServerControls.pdb

@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4C38BCAF-7555-47AA-B37C-88CAF76E2C64}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CHAI.LISDashboard.DataAccess</RootNamespace>
+    <AssemblyName>CHAI.LISDashboard.DataAccess</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\Library\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin\LookUpDao.cs" />
+    <Compile Include="Admin\ModuleDao.cs" />
+    <Compile Include="Admin\NodeDao.cs" />
+    <Compile Include="Admin\StoreDao.cs" />
+    <Compile Include="Admin\TabDao.cs" />
+    <Compile Include="Admin\TaskPanDao.cs" />
+    <Compile Include="BaseDao.cs" />
+    <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="Inventorys\DocumentDao.cs" />
+    <Compile Include="Location\FacilityDao.cs" />
+    <Compile Include="Location\ProvinceDao.cs" />
+    <Compile Include="Models\AppUser.cs" />
+    <Compile Include="Models\AppUserRole.cs" />
+    <Compile Include="Models\AssignedEmployeeVehicle.cs" />
+    <Compile Include="Models\AssociationContext.cs" />
+    <Compile Include="Models\Complain.cs" />
+    <Compile Include="Models\Customer.cs" />
+    <Compile Include="Models\Employee.cs" />
+    <Compile Include="Models\EmployeeDebit.cs" />
+    <Compile Include="Models\EmplyeePerdime.cs" />
+    <Compile Include="Models\Expens.cs" />
+    <Compile Include="Models\ExpenseType.cs" />
+    <Compile Include="Models\Mapping\AppUserMap.cs" />
+    <Compile Include="Models\Mapping\AppUserRoleMap.cs" />
+    <Compile Include="Models\Mapping\AssignedEmployeeVehicleMap.cs" />
+    <Compile Include="Models\Mapping\ComplainMap.cs" />
+    <Compile Include="Models\Mapping\CustomerMap.cs" />
+    <Compile Include="Models\Mapping\EmployeeDebitMap.cs" />
+    <Compile Include="Models\Mapping\EmployeeMap.cs" />
+    <Compile Include="Models\Mapping\EmplyeePerdimeMap.cs" />
+    <Compile Include="Models\Mapping\ExpenseTypeMap.cs" />
+    <Compile Include="Models\Mapping\ExpensMap.cs" />
+    <Compile Include="Models\Mapping\memberMap.cs" />
+    <Compile Include="Models\Mapping\MemberRemainingBalanceMap.cs" />
+    <Compile Include="Models\Mapping\MemeberCustomerMap.cs" />
+    <Compile Include="Models\Mapping\MoneyCollectionDetailMap.cs" />
+    <Compile Include="Models\Mapping\MoneyCollectionMap.cs" />
+    <Compile Include="Models\Mapping\NodeMap.cs" />
+    <Compile Include="Models\Mapping\NodeRoleMap.cs" />
+    <Compile Include="Models\Mapping\PaymentMap.cs" />
+    <Compile Include="Models\Mapping\PaymentSettingMap.cs" />
+    <Compile Include="Models\Mapping\PocModuleMap.cs" />
+    <Compile Include="Models\Mapping\PopupMenuMap.cs" />
+    <Compile Include="Models\Mapping\RegionMap.cs" />
+    <Compile Include="Models\Mapping\RegionPaymentMap.cs" />
+    <Compile Include="Models\Mapping\RoleMap.cs" />
+    <Compile Include="Models\Mapping\salaryMap.cs" />
+    <Compile Include="Models\Mapping\sysdiagramMap.cs" />
+    <Compile Include="Models\Mapping\TabMap.cs" />
+    <Compile Include="Models\Mapping\TabRoleMap.cs" />
+    <Compile Include="Models\Mapping\TaskPanMap.cs" />
+    <Compile Include="Models\Mapping\TaskPanNodeMap.cs" />
+    <Compile Include="Models\Mapping\TransactionMap.cs" />
+    <Compile Include="Models\Mapping\VehicleMap.cs" />
+    <Compile Include="Models\member.cs" />
+    <Compile Include="Models\MemberRemainingBalance.cs" />
+    <Compile Include="Models\MemeberCustomer.cs" />
+    <Compile Include="Models\MoneyCollection.cs" />
+    <Compile Include="Models\MoneyCollectionDetail.cs" />
+    <Compile Include="Models\Node.cs" />
+    <Compile Include="Models\NodeRole.cs" />
+    <Compile Include="Models\Payment.cs" />
+    <Compile Include="Models\PaymentSetting.cs" />
+    <Compile Include="Models\PocModule.cs" />
+    <Compile Include="Models\PopupMenu.cs" />
+    <Compile Include="Models\Region.cs" />
+    <Compile Include="Models\RegionPayment.cs" />
+    <Compile Include="Models\Role.cs" />
+    <Compile Include="Models\salary.cs" />
+    <Compile Include="Models\sysdiagram.cs" />
+    <Compile Include="Models\Tab.cs" />
+    <Compile Include="Models\TabRole.cs" />
+    <Compile Include="Models\TaskPan.cs" />
+    <Compile Include="Models\TaskPanNode.cs" />
+    <Compile Include="Models\Transaction.cs" />
+    <Compile Include="Models\Vehicle.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Location\FacilityTypeDao.cs" />
+    <Compile Include="Resource\ForecastDao.cs" />
+    <Compile Include="Resource\Instruments\PimaMeanDao.cs" />
+    <Compile Include="Resource\QuantificationMetricDao.cs" />
+    <Compile Include="Resource\Instruments\InstrumentDao.cs" />
+    <Compile Include="Resource\ProductDao.cs" />
+    <Compile Include="Resource\ProductTypeDao.cs" />
+    <Compile Include="Resource\TestDao.cs" />
+    <Compile Include="Resource\TestingAreaDao.cs" />
+    <Compile Include="Resource\TestingPointDao.cs" />
+    <Compile Include="RoleDao.cs" />
+    <Compile Include="UserDao.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Forecast\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.Config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CHAI.LISDashboard.CoreDomain\CHAI.LISDashboard.CoreDomain.csproj">
+      <Project>{20c49d35-4cea-4c93-acff-3a570ca2fed7}</Project>
+      <Name>CHAI.LISDashboard.CoreDomain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CHAI.LISDashboard.Shared\CHAI.LISDashboard.Shared.csproj">
+      <Project>{3c1c6d3d-633e-442a-bde0-0d0b9d31fdf2}</Project>
+      <Name>SKDH.BuildingManagment.Shared</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties IsModuleProject="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>

@@ -1,0 +1,353 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="LogInMaster.master.cs"
+    Inherits="CHAI.LISDashboard.Modules.Shell.MasterPages.LogInMaster" %>
+
+<!DOCTYPE html>
+<html lang="en-us" id="extr-page">
+	<head>
+		<meta charset="utf-8">
+		<title>Dashboard</title>
+		<meta name="description" content="">
+		<meta name="author" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		
+		<!-- #CSS Links -->
+		<!-- Basic Styles -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/font-awesome.min.css">
+
+		<!-- SmartAdmin Styles : Please note (smartadmin-production.css) was created using LESS variables -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-production.min.css">
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-skins.min.css">
+
+		<!-- SmartAdmin RTL Support is under construction
+			 This RTL CSS will be released in version 1.5
+		<link rel="stylesheet" type="text/css" media="screen" href="css/smartadmin-rtl.min.css"> -->
+
+		<!-- We recommend you use "your_style.css" to override SmartAdmin
+		     specific styles this will also ensure you retrain your customization with each SmartAdmin update.
+		<link rel="stylesheet" type="text/css" media="screen" href="css/your_style.css"> -->
+
+		<!-- Demo purpose only: goes with demo.js, you can delete this css when designing your own WebApp -->
+		<link rel="stylesheet" type="text/css" media="screen" href="css/demo.min.css">
+
+		<!-- #FAVICONS -->
+		<link rel="shortcut icon" href="img/favicon/favicon.ico" type="image/x-icon">
+		<link rel="icon" href="img/favicon/favicon.ico" type="image/x-icon">        
+
+		<!-- #GOOGLE FONT -->
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,300,400,700">
+
+		<!-- #APP SCREEN / ICONS -->
+		<!-- Specifying a Webpage Icon for Web Clip 
+			 Ref: https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html -->
+		<link rel="apple-touch-icon" href="img/splash/sptouch-icon-iphone.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="img/splash/touch-icon-ipad.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="img/splash/touch-icon-iphone-retina.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="img/splash/touch-icon-ipad-retina.png">
+		
+		<!-- iOS web-app metas : hides Safari UI Components and Changes Status Bar Appearance -->
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		
+		<!-- Startup image for web apps -->
+		<link rel="apple-touch-startup-image" href="img/splash/ipad-landscape.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape)">
+		<link rel="apple-touch-startup-image" href="img/splash/ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)">
+		<link rel="apple-touch-startup-image" href="img/splash/iphone.png" media="screen and (max-device-width: 320px)">        
+       
+        <style>
+            /*.project-tab {
+                padding: 10%;
+                margin-top: -8%;
+            }
+            .project-tab #tabs{
+                background: #007b5e;
+                color: #eee;
+            }
+            .project-tab #tabs h6.section-title{
+                color: #eee;
+            }
+            .project-tab #tabs .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+                color: #0062cc;
+                background-color: transparent;
+                border-color: transparent transparent #f3f3f3;
+                border-bottom: 3px solid !important;
+                font-size: 16px;
+                font-weight: bold;
+            }
+            .project-tab .nav-link {
+                border: 1px solid transparent;
+                border-top-left-radius: .25rem;
+                border-top-right-radius: .25rem;
+                color: #0062cc;
+                font-size: 16px;
+                font-weight: 600;
+            }
+            .project-tab .nav-link:hover {
+                border: none;
+            }
+            .project-tab thead{
+                background: #f3f3f3;
+                color: #333;
+            }
+            .project-tab a{
+                text-decoration: none;
+                color: #333;
+                font-weight: 600;
+            }*/
+           
+            .well {
+                background: #fbfbfb;
+                border: 1px solid #ddd;
+                box-shadow: 0 1px 1px #ececec;
+                -webkit-box-shadow: 0 1px 1px #ececec;
+                -moz-box-shadow: 0 1px 1px #ececec;
+                position: relative;
+                padding: 20px;
+                margin-right: 10px;
+                margin-bottom: 10px;                
+            }
+
+            h3 {
+                display: block;
+                font-size: 19px;
+                font-weight: 400;
+                margin: 20px 0;                
+                line-height: normal;
+            }
+
+            .media:first-child {
+                margin-top: 10px;
+            }
+
+            .media {
+                margin-top: 5px;                
+            }
+            
+            .container {
+                width: 100%
+            }
+            
+            #content {                
+                padding: 10px 0px;
+                position: relative;
+            }
+
+            .jumbotron {
+                padding: 5px;
+                margin-bottom: 0px;
+                color: inherit;
+                height: 315px;
+                background-color: #fafafa;
+                /*background-color: #eee;
+                background-color: #fff;*/
+            }
+
+            .jumbotron h1 {
+                /*font-size: 38.5px;
+                font-size: 25px;*/
+                font-size: 4.0em;
+                font-weight: bold;
+                /*color: #243b65;*/
+                /*color: rgba(40,44,42,0.05);*/
+                color: rgba(40,44,42,0.3);
+                padding-top: 80px;
+                /*padding-bottom: 10px;
+                border-bottom: solid 5px;*/
+            }
+
+            .jumbotron h2 {
+                /*font-size: 38.5px;
+                font-size: 18px;*/
+                font-size: 3em;
+                font-weight: bold;
+                /*color: #cd0000;
+                color: #243b65;*/
+                /*color: rgba(40,44,42,0.05);*/
+                color: rgba(40,44,42,0.3);
+                margin: 10px 0px;                
+                padding-top: 5px;                
+                /*letter-spacing: 45px;*/
+            }
+
+            .content-wrap section p {
+                margin: 0;
+                padding: 0.75em 0;
+                color: rgba(40,44,42,0.05);
+                font-weight: 900;
+                font-size: 3em !important;
+                text-align: left !important;
+                line-height: 1;
+            }
+            
+            /*.container > section {
+                padding: 0.2em 0;
+                font-size: 1.25em;
+                min-height: 100%;
+            }
+                        
+            .tabs-style-bar nav ul li a {
+                margin: 0 2px;
+                background-color: #f7f7f7;                
+                color: #74777b;
+                transition: background-color 0.2s, color 0.2s;
+                height: 40px;
+            }
+
+            .tabs-style-bar nav ul li a span {
+                text-transform: uppercase;
+                letter-spacing: 1px;
+                font-weight: 500;
+                font-size: 0.8em;
+                padding-left: 10px;
+            }
+
+            a {
+                color: #2CC185;
+                text-decoration: none;
+                outline: none;
+                font-size: 1.2em;
+            }
+
+            .content-wrap section {
+                display: none;
+                margin: 0 auto;
+                padding: 1em;
+                max-width: 1200px;
+                text-align: center;
+            }*/
+
+        </style>
+	</head>
+	
+	<body class="animated fadeInDown" style="background: none;">
+    <form id="mainForm" runat="server">
+   <asp:ScriptManager ID="DefaultMasterScriptManager" runat="server">
+    </asp:ScriptManager>
+		<%--<header id="header">
+
+			<div id="logo-group">
+				<span id="logo">
+                    <img src="img/MOHS_LOGO.png" alt="MOHS" />
+				</span>
+			</div>
+           
+		</header>--%>        
+
+        <div style="height: 120px; text-align: center; background: #243b65; border-bottom: solid 1px #eee; padding-top: 10px;">
+		    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3 hidden-xs hidden-sm" style="text-align: right;">
+				<img src="img/logo-minsante.png" class="collaboration-img1">
+		    </div>
+            <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6" style="text-align: left">
+                <h6 style="margin-top: 20px; color: #fff">The Republic of Cameroon,</h6>                
+                <h1 style="color: #fff; margin-top: 5px; margin-bottom: 0px">Ministry of Public Health</h1>                
+            </div>
+		    <div class="col-xs-4 col-sm-4 col-md-3 col-lg-3 hidden-xs hidden-sm"  style="text-align: left">
+		    </div>
+        </div>
+        
+        <%--<div id="login-form" class="smart-form client-form" style="background: #ffffff url('img/bg9.jpg') no-repeat left top; height: 650px;">--%>
+        <div id="login-form" class="smart-form client-form">
+            <section id="widget-grid" class="">			
+			    <div id="content" class="container">            
+                    <asp:PlaceHolder ID="plhMessage" runat="server" />
+                    <asp:ContentPlaceHolder ID="DefaultContent" runat="server" >
+                    </asp:ContentPlaceHolder>
+			    </div>
+            </section>
+		</div>
+        </form>
+		<!--================================================== -->	
+
+		<!-- PACE LOADER - turn this on if you want ajax loading to show (caution: uses lots of memory on iDevices)-->
+		<script src="js/plugin/pace/pace.min.js"></script>
+
+	    <!-- Link to Google CDN's jQuery + jQueryUI; fall back to local -->
+	    <%--<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>--%>
+		<script>		    if (!window.jQuery) { document.write('<script src="js/libs/jquery-2.0.2.min.js"><\/script>'); } </script>
+
+	    <%--<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>--%>
+		<script>		    if (!window.jQuery.ui) { document.write('<script src="js/libs/jquery-ui-1.10.3.min.js"><\/script>'); } </script>
+
+		<!-- JS TOUCH : include this plugin for mobile drag / drop touch events 		
+		<script src="js/plugin/jquery-touch/jquery.ui.touch-punch.min.js"></script> -->
+
+		<!-- BOOTSTRAP JS -->		
+		<script src="js/bootstrap/bootstrap.min.js"></script>
+
+		<!-- JQUERY VALIDATE -->
+		<script src="js/plugin/jquery-validate/jquery.validate.min.js"></script>
+		
+		<!-- JQUERY MASKED INPUT -->
+		<script src="js/plugin/masked-input/jquery.maskedinput.min.js"></script>
+		
+		<!--[if IE 8]>
+			
+			<h1>Your browser is out of date, please update your browser by going to www.microsoft.com/download</h1>
+			
+		<![endif]-->
+
+		<!-- MAIN APP JS FILE -->
+		<script src="js/app.min.js"></script>
+
+		<script type="text/javascript">
+		    runAllForms();
+
+		    $(function () {
+		        // Validation
+		        $("#login-form").validate({
+		            // Rules for form validation
+		            rules: {
+		                email: {
+		                    required: true,
+		                    email: true
+		                },
+		                password: {
+		                    required: true,
+		                    minlength: 3,
+		                    maxlength: 20
+		                }
+		            },
+
+		            // Messages for form validation
+		            messages: {
+		                email: {
+		                    required: 'Please enter your email address',
+		                    email: 'Please enter a VALID email address'
+		                },
+		                password: {
+		                    required: 'Please enter your password'
+		                }
+		            },
+
+		            // Do not change code below
+		            errorPlacement: function (error, element) {
+		                error.insertAfter(element.parent());
+		            }
+		        });
+		    });
+		</script>        
+              
+
+        <link rel="stylesheet" type="text/css" href="css/tab_normalize.css" />
+		<link rel="stylesheet" type="text/css" href="css/tab_demo.css" />
+		<link rel="stylesheet" type="text/css" href="css/tabs.css" />
+		<link rel="stylesheet" type="text/css" href="css/tabstyles.css" />  		
+        <script src="js/cbpFWTabs.js"></script>
+        <script>
+            var tab3 = null;
+            (function () {
+                [].slice.call(document.querySelectorAll('.tabs')).forEach(function (el) {
+                    tab3 = new CBPFWTabs(el);
+                });
+
+            })();
+
+            function funcForgetPassword() {                
+                tab3._show(2);
+            }
+            
+		</script>
+        
+	</body>
+</html>
+
